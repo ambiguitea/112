@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-May-2017, 11:01:38
+    Author     : richardwortham
+*/
+.sidebar {
+  width: 30%; }
+  .sidebar ul {
+    font-family: Verdana, "Segoe UI", Helvetica, Arial, sans-serif;
+    list-style: none;
+    background-color: #f2f4f5;
+    padding-left: 2px; }
+    .sidebar ul li {
+      font-size: 18px;
+      padding: 5px 0px; }
+      .sidebar ul li ul li {
+        font-size: 14px;
+        background-color: #fdfdfd; }
+
+.dr {
+  color: red;
+  font-style: italic; }
+
+.wm:before,
+.sw:before,
+.jw:before,
+.ig:before {
+  font-weight: 600; }
+
+.wm:before {
+  content: "WM - "; }
+
+.sw:before {
+  content: "SW - "; }
+
+.jw:before {
+  content: "JW - "; }
+
+.ig:before {
+  content: "IG - "; }
+
+.ipm:before {
+  content: "IPM - "; }
+
+.brethren:before {
+  content: "BRETHREN - "; }
+
+/*# sourceMappingURL=112.css.map */
